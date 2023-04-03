@@ -4,6 +4,7 @@ hallo git!
 hallo git! 
 hallo git! 
 hallo git! 
-hallo git! 
-hallo git! 
+hallo git!  
 hallo git! master text 
+hallo git! hot-fix text 
+
